@@ -101,9 +101,9 @@ An NLP-based tool that summarizes meeting content into concise outputs.
 
 ## Current GitHub Stats 📊
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amaysaxena02&show_icons=true&theme=dark&cache_seconds=1800)
+![](https://github-readme-stats-phi-lemon-32.vercel.app/api?username=amaysaxena02&show_icons=true&theme=dark)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaysaxena02&layout=compact&theme=dark&cache_seconds=1800)
+![](https://github-readme-stats-phi-lemon-32.vercel.app/api/top-langs/?username=amaysaxena02&layout=compact&theme=dark)
 
 ---
 
