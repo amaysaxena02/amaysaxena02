@@ -112,14 +112,10 @@ An NLP-based tool that summarizes meeting content into concise outputs.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amaysaxena02&theme=radical&no-frame=true&margin-w=10)
 
----
 
-<p align="center">
-<img src="https://github.com/amaysaxena02/amaysaxena02/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+![snake gif](https://github.com/amaysaxena02/amaysaxena02/blob/output/github-snake-dark.svg)
+
 
 ---
 
