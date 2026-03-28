@@ -1,40 +1,114 @@
-# 💫 About Me:
-👋 Hello! I'm Amay Saxena  
+<h1 align="center"> Hi 👋🏻, I'm Amay Saxena </h1>
 
-I'm a college student focused on building real projects across web development, data science, and machine learning.  
-I like solving problems, shipping practical applications, and continuously improving my fundamentals.  
+<p align="center">Building practical projects ⚡</p>
+<p align="center">Focused on real-world problem solving 🚀</p>
 
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaysaxena) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amay-saxena-)
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)  
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+<p align="center">
+<a href="https://linkedin.com/in/amay-saxena-" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
+</a>
+<a href="https://instagram.com/amaysaxena" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
+</a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amaysaxena02&show_icons=true&theme=dark&cache_seconds=1800)
+## Creation 👨‍💻
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaysaxena02&layout=compact&theme=dark&cache_seconds=1800)
+### 🎸 ChordVision — Guitar Chord Detection  
+🔗 https://github.com/amaysaxena02/ChordVision---Guitar-chord-detection  
+A computer vision + ML-based system that detects guitar chords from input. Combines audio/visual processing to identify chord patterns in real time.
 
-![](https://streak-stats.demolab.com?user=amaysaxena02&theme=dark)
+---
+
+### 🎮 Atlas of Radahn  
+🔗 https://github.com/amaysaxena02/Atlas-of-Radahn  
+A project inspired by game-world exploration concepts. Focuses on structured data representation and interactive elements to simulate a navigable system/map.
+
+---
+
+### 🎼 PitchGenAI  
+🔗 https://github.com/amaysaxena02/PitchGenAI  
+An AI-based project focused on pitch generation and manipulation. Explores audio synthesis techniques and model-based sound generation.
+
+---
+
+### 🎵 Music Generator  
+🔗 https://github.com/amaysaxena02/Music-Generator  
+A Streamlit-based AI music generation app.  
+- Generates music and vocals using AI  
+- Converts text prompts into audio  
+- Allows lyric-to-song transformation  
+
+---
+
+### 🎤 Text to Singer (Bark)  
+🔗 https://github.com/amaysaxena02/text_to_singer_bark  
+A Streamlit app using Bark to convert text/lyrics into realistic singing voices.  
+- Custom lyric input  
+- AI voice synthesis  
+- Downloadable generated audio  
+
+---
+
+### 📝 Meeting Summarizer  
+🔗 https://github.com/amaysaxena02/Meeting-Summarizer  
+An NLP-based tool that summarizes meeting content into concise outputs.  
+- Extracts key points  
+- Reduces long conversations into actionable summaries  
+---
+
+## Tech Stack 💻
+
+### Languages
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
+
+---
+
+### Data / ML
+![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/tensorflow-000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/pytorch-000?style=for-the-badge&logo=pytorch)
+
+---
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+
+---
+
+### Deployment
+![Netlify](https://img.shields.io/badge/netlify-000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel)
+
+---
+
+### Package Manager
+![NPM](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+
+---
+
+### Version Control
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+
+---
+
+## Current GitHub Stats 📊
+
+![Stats](https://github-readme-stats.vercel.app/api?username=amaysaxena02&show_icons=true&theme=dark&cache_seconds=1800)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaysaxena02&layout=compact&theme=dark&cache_seconds=1800)
+
+---
+
+## GitHub Streak 🔥
+![Streak](https://streak-stats.demolab.com?user=amaysaxena02&theme=dark)
 
 ---
 
@@ -43,12 +117,9 @@ I like solving problems, shipping practical applications, and continuously impro
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- ❌ Removed broken "Top Contributed Repo" section -->
+<p align="center">
+<img src="https://github.com/amaysaxena02/amaysaxena02/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
