@@ -13,12 +13,12 @@
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Agentic+AI+%7C+Generative+AI;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2a7aef&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Agentic+AI+%7C+Generative+AI;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=amaysaxena02&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/amaysaxena02?style=for-the-badge&color=6C63FF"/>
-  <img src="https://img.shields.io/github/stars/amaysaxena02?affiliations=OWNER&style=for-the-badge&color=6C63FF"/>
+  <img src="https://komarev.com/ghpvc/?username=amaysaxena02&label=Profile%20Views&color=2a7aef&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/amaysaxena02?style=for-the-badge&color=2a7aef"/>
+  <img src="https://img.shields.io/github/stars/amaysaxena02?affiliations=OWNER&style=for-the-badge&color=2a7aef"/>
 </p>
 </div>
 
