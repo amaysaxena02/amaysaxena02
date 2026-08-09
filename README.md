@@ -4,12 +4,19 @@
 <p align="center">Focused on real-world problem solving 🚀</p>
 
 <p align="center">
+  
 <a href="https://linkedin.com/in/amay-saxena-" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
 </a>
+  
 <a href="https://instagram.com/amaysaxena" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
 </a>
+
+<a href="https://amay-saxenaportfolio.vercel.app/" target="_blank"> 
+<img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" />
+</a>
+
 </p>
 
 <div align="center">
